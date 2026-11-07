@@ -1,4 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/guidetuanhp/guidetuanhp.r-universe.dev
 	branch = HEAD
+[submodule "frailtyHLnew"]
+	path = frailtyHLnew
+	url = https://github.com/guidetuanhp/frailtyHLnew
