@@ -1,0 +1,10 @@
+{
+  "id": 184918953,
+  "created_at": "2026-11-23T07:57:42.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["frailtyHLnew", "guidetuanhp.r-universe.dev"]
+}
